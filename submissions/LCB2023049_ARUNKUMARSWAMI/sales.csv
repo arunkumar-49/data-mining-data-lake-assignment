@@ -1,0 +1,47 @@
+order_id,customer_name,product,category,quantity,unit_price,discount_percentage,order_date,region
+1001,Alice Johnson,Laptop,Electronics,2,899.99,10,2024-01-15,North
+1002,bob smith,Mouse,Electronics,5,25.50,5,2024-01-16,South
+1003,CAROL WHITE,Keyboard,Electronics,3,75.00,0,2024-01-17,East
+1004,Alice Johnson,Laptop,Electronics,2,899.99,10,2024-01-15,North
+1005,david brown,Monitor,Electronics,-1,300.00,8,2024-01-18,West
+1006,  Eve Davis  ,Desk Chair,Furniture,1,250.00,15,2024-01-19,North
+1007,Frank Wilson,Standing Desk,Furniture,2,499.99,20,2024-01-20,South
+1008,grace lee,Notebook,Stationery,10,5.99,0,2024/01/21,East
+1009,Henry Moore,Pen Set,Stationery,20,12.50,5,21-01-2024,West
+1010,Iris Taylor,Webcam,Electronics,1,89.99,12,2024-01-22,North
+1011,james anderson,Laptop Stand,Electronics,3,45.00,0,2024-01-23,South
+1012,Karen Thomas,USB Hub,Electronics,4,35.00,150,2024-01-24,East
+1013,,Headphones,Electronics,2,120.00,10,2024-01-25,West
+1014,Liam Jackson,Office Lamp,Furniture,1,55.00,5,2024-01-26,North
+1015,MONA HARRIS,Sticky Notes,Stationery,50,3.99,0,2024-01-27,South
+1016,Nate Martin,Ergonomic Chair,Furniture,1,375.00,10,2024-01-28,East
+1017,olivia garcia,Mechanical Keyboard,Electronics,2,145.00,8,2024-01-29,West
+1018,Peter Martinez,Mouse Pad,Electronics,5,15.00,0,2024-01-30,North
+1019,Quinn Robinson,Filing Cabinet,Furniture,1,199.99,12,2024-01-31,South
+1020,Rachel Clark,Highlighters,Stationery,30,8.50,5,2024-02-01,East
+1021,samuel lewis,Laptop,Electronics,1,899.99,10,2024-02-02,West
+1022,Tina Walker,Monitor,Electronics,2,300.00,8,2024-02-03,North
+1023,Uma Hall,Desk Chair,Furniture,,250.00,15,2024-02-04,South
+1024,Victor Allen,Notebook,Stationery,15,5.99,0,2024-02-05,East
+1025,Wendy Young,Pen Set,Stationery,10,12.50,5,2024-02-06,West
+1026,XAVIER KING,USB Hub,Electronics,3,35.00,0,2024-02-07,North
+1027,yara wright,Webcam,Electronics,2,89.99,12,not-a-date,South
+1028,Zoe Scott,Laptop Stand,Electronics,4,45.00,0,2024-02-09,East
+1029,Aaron Green,Headphones,Electronics,1,120.00,10,2024-02-10,West
+1030,bella adams,Office Lamp,Furniture,2,55.00,5,2024-02-11,North
+1031,Chris Baker,Ergonomic Chair,Furniture,1,375.00,0,2024-02-12,South
+1032,  diana carter  ,Mechanical Keyboard,Electronics,3,145.00,8,2024-02-13,East
+1033,Ethan Mitchell,Mouse,Electronics,10,25.50,5,2024-02-14,West
+1034,Fiona Perez,Sticky Notes,Stationery,25,3.99,0,2024-02-15,North
+1035,george roberts,Filing Cabinet,Furniture,1,199.99,12,2024-02-16,South
+1036,Hannah Turner,Highlighters,Stationery,20,8.50,5,2024-02-17,East
+1037,ian phillips,Laptop,Electronics,0,899.99,10,2024-02-18,West
+1038,Julia Campbell,Monitor,Electronics,1,300.00,8,2024-02-19,North
+1039,Kevin Parker,Desk Chair,Furniture,2,250.00,15,2024-02-20,South
+1040,LAURA EVANS,Notebook,Stationery,8,5.99,0,2024-02-21,East
+1002,bob smith,Mouse,Electronics,5,25.50,5,2024-01-16,South
+1041,Mike Edwards,Pen Set,Stationery,12,12.50,5,2024-02-22,West
+1042,Nancy Collins,USB Hub,Electronics,6,35.00,0,2024-02-23,North
+1043,oscar stewart,Webcam,Electronics,1,89.99,12,2024-02-24,South
+1044,Pamela Sanchez,Laptop Stand,Electronics,5,45.00,0,2024-02-25,East
+1045,quinn morris,Headphones,Electronics,3,-120.00,10,2024-02-26,West
